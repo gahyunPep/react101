@@ -1,0 +1,19 @@
+# Node.js
+node_modules
+
+# Bundles
+bundle.js
+bundle.js.map
+
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+
+/build
